@@ -22,7 +22,12 @@ public class Ejecutar {
         System.out.println(objVehiculo2);
 
 
+        System.out.println(objVehiculo2.getMarca());objVehiculo2.acelerar();
+        System.out.println(objVehiculo2.getMarca());objVehiculo2.acelerar();
 
+        System.out.println(objVehiculo.getMarca());objVehiculo.frenar();
+        System.out.println(objVehiculo2.getMarca());objVehiculo2.frenar();
+        
 
     }
 
