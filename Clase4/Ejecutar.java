@@ -27,7 +27,9 @@ public class Ejecutar {
 
         System.out.println(objVehiculo.getMarca());objVehiculo.frenar();
         System.out.println(objVehiculo2.getMarca());objVehiculo2.frenar();
-        
+
+        //prueba yo
+        system
 
     }
 
